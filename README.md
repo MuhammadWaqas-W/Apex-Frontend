@@ -20,7 +20,7 @@ User registration and login functionality with email and password- JWT-based aut
 
 ### Installation
 
-- Clone the repository: git clone https://github.com/MWaqas414/apex-fe.git ```
+- Clone the repository: git clone https://github.com/MuhammadWaqas-W/apex-fe.git ```
 - Install dependencies: cd Apex-Frontend npm install
 - Run the development server: ``npm run dev` The application will be accessible at http://localhost:3000.
 
